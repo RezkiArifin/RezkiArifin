@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RezkiArifin
-- 👀 I’m interested in Web Design/Programming
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web and Mobile Programming
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Laravel, Flutter
+- 💞️ I’m looking to collaborate on your company
 - 📫 How to reach me rezkhyfauzan01@gmail.com
 
 <!---
